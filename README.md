@@ -9,6 +9,6 @@ Welcome to my data science project portfolio 👨‍💻
 
 # Machine Learning
 [Linear Regression of Diamond Prices](https://github.com/blue-quark/data_science_projects/blob/main/diamond-price-regression.ipynb)  
-[Fire Alarm Modeling](https://github.com/blue-quark/data_science_projects/blob/main/modeling-of-fire-alarm-data.ipynb)  
-[Classification of Possum Sex](https://github.com/blue-quark/data_science_projects/blob/main/possum-eda-data-cleaning-and-sex-classification.ipynb)  
-[Classification of Mushroom Edibility](https://github.com/blue-quark/data_science_projects/blob/main/mushroom-classification.ipynb)  
+[Binary Classification of Fire Alarm Data](https://github.com/blue-quark/data_science_projects/blob/main/modeling-of-fire-alarm-data.ipynb)  
+[Binary Classification of Possum Sex](https://github.com/blue-quark/data_science_projects/blob/main/possum-eda-data-cleaning-and-sex-classification.ipynb)  
+[Binary Classification of Mushroom Edibility](https://github.com/blue-quark/data_science_projects/blob/main/mushroom-classification.ipynb)  
