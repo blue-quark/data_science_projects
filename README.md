@@ -17,6 +17,5 @@ Welcome to my data science project portfolio 👨‍💻
 | [Binary Classification of Fire Alarm Data](https://github.com/blue-quark/data_science_projects/blob/main/modeling-of-fire-alarm-data.ipynb)                | Binary classification of fire alarm data to detect fires                                         | Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Binary Classification                             |
 | [Binary Classification of Possum Sex](https://github.com/blue-quark/data_science_projects/blob/main/possum-eda-data-cleaning-and-sex-classification.ipynb) | Exploratory data analysis, data cleaning and binary classification of possum sex                 | Numpy, Pandas, Matplotlib, Seaborn, data cleaning, skewed data, Sklearn, Binary Classification |
 | [Binary Classification of Mushroom Edibility](https://github.com/blue-quark/data_science_projects/blob/main/mushroom-classification.ipynb)                 | Exploratory data analysis and binary classification of mushroom edibility using categorical data | Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Binary Classification                             |
-
-
+| [Trailer Price Regression Analysis](https://github.com/blue-quark/trailer_price_regression/) | Data collection, cleaning and analysis, linear regression for price analysis for an early stage trailer start-up | Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Regression                                        |
  
