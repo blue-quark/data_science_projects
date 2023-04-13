@@ -1,7 +1,13 @@
 
 # Data Science Project Portfolio
 
-Welcome to my data science project portfolio 👨‍💻 
+
+
+Welcome to my data science project portfolio 👨‍💻 This repository contains the code and data for various data science projects I've worked on. My projects in this repository span a variety of topics, including machine learning, data analysis, and visualization.
+
+Currently, I'm working on a price regression project, which involves predicting the price of a new trailer based on various features. This project uses Python and scikit-learn, and I'm continually refining the model to improve its accuracy.
+
+Please feel free to explore the repository and contact me with any questions or opportunities to collaborate. Thank you for visiting!
 
 # Exploratory Data Analysis 
 | Project Name                                                                                                                            | Description | Skills |
